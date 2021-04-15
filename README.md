@@ -7,6 +7,5 @@ I am a developer Backend using PHP from brazil currently.
 
 ### Github Stats
 
-<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurineves92&hide=TeX&layout=compact">
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=yurineves92&show_icons=true">
+<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurineves92&hide=TeX&layout=compact"><img align='right' src="https://github-readme-stats.vercel.app/api?username=yurineves92&show_icons=true">
 
