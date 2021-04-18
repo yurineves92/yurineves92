@@ -1,6 +1,3 @@
-
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurineves92&hide=TeX&layout=compact">
-
 ### Hi there 👋
 
 I am a developer Backend using PHP from brazil currently.
