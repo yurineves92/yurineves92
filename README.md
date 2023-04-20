@@ -2,7 +2,7 @@
 
 I am a developer Backend using PHP from brazil currently.
 
-- 👋 I’m currently improving for Backend [Laravel](https://laravel.com/) and [NodeJS](https://nodejs.org/en/).
+- 👋 I’m currently improving for Backend [Laravel](https://laravel.com/).
 - 📖 I’m currently improving for Frontend [VueJS](https://vuejs.org), [TailwindCSS](https://tailwindui.com).
 - 🎨 I’m currently improving [Inertia.js](https://inertiajs.com/).
 
