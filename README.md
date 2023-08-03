@@ -9,6 +9,7 @@ Olá! Meu nome é Yuri Neves e sou um entusiasta do desenvolvimento web, focado 
 
 ## Frontend
 - 📖 [Vue.js](https://vuejs.org): Explorando as maravilhas do Vue.js para criar interfaces de usuário interativas e responsivas.
+- 📖 [Vue.js]([https://vuejs.org](https://react.dev/)): Explorando as maravilhas do React para criar interfaces de usuário interativas e responsivas.
 - 🎨 [Tailwind CSS](https://tailwindui.com): Descobrindo o poder do Tailwind CSS para estilização eficiente de interfaces.
 - 🌐 JavaScript: Utilizando JavaScript para tornar as páginas web mais dinâmicas e atraentes.
 
