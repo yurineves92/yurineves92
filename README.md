@@ -5,12 +5,10 @@ Olá! Meu nome é Yuri Neves e sou um entusiasta do desenvolvimento web, focado 
 
 ## Backend
 - 🌐 [Laravel](https://laravel.com/): Aprender mais sobre o framework Laravel para desenvolvimento do lado do servidor.
-- 🌐 [NodeJS](https://nodejs.org/) Utilizando o poder do Node.js para construir aplicações escaláveis e de alta performance.
 - ⚙️ PHP: Experiência com PHP para criar aplicações robustas e escaláveis.
 
 ## Frontend
 - 📖 [Vue.js](https://vuejs.org): Explorando as maravilhas do Vue.js para criar interfaces de usuário interativas e responsivas.
-- 📖 [React](https://react.dev): Descobrindo os benefícios do React para interfaces de usuário interativas e responsivas.
 - 🎨 [Tailwind CSS](https://tailwindui.com): Descobrindo o poder do Tailwind CSS para estilização eficiente de interfaces.
 - 🌐 JavaScript: Utilizando JavaScript para tornar as páginas web mais dinâmicas e atraentes.
 
