@@ -5,6 +5,7 @@ Olá! Meu nome é Yuri Neves e sou um entusiasta do desenvolvimento web, focado 
 
 ## Backend
 - 🌐 [Laravel](https://laravel.com/): Aprender mais sobre o framework Laravel para desenvolvimento do lado do servidor.
+- 🌟 [Yii Framework](https://www.yiiframework.com/): Explorar o Yii Framework para desenvolvimento eficiente em PHP.
 - ⚙️ PHP: Experiência com PHP para criar aplicações robustas e escaláveis.
 
 ## Frontend
