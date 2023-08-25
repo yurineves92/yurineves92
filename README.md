@@ -18,6 +18,7 @@ Olá! Meu nome é Yuri Neves e sou um entusiasta do desenvolvimento web, focado 
 
 ## Outros interesses
 - 👉 GO: Explorando a linguagem GO para desenvolvimento eficiente e de alto desempenho.
+- ☕ Java: Aprofundando o conhecimento em Java e suas tecnologias associadas para construção robusta de aplicações.
 
 Estou comprometido em aprimorar continuamente meu conhecimento e habilidades nessas tecnologias, com o objetivo de desenvolver aplicativos web melhores e mais eficientes.
 
