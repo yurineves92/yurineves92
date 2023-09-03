@@ -4,17 +4,17 @@
 Olá! Meu nome é Yuri Neves e sou um entusiasta do desenvolvimento web, focado em aprimorar minhas habilidades em várias tecnologias. Atualmente, estou me dedicando a melhorar meu conhecimento nas seguintes áreas:
 
 ## Backend
-- 🌐 [Laravel](https://laravel.com/): Aprender mais sobre o framework Laravel para desenvolvimento do lado do servidor.
-- 🌟 [Yii Framework](https://www.yiiframework.com/): Explorar o Yii Framework para desenvolvimento eficiente em PHP.
-- ⚙️ PHP: Experiência com PHP para criar aplicações robustas e escaláveis.
+- 🌐 [Laravel](https://laravel.com/);
+- 🌟 [Yii Framework](https://www.yiiframework.com/);
+- ⚙️ PHP;
 
 ## Frontend
-- 📖 [Vue.js](https://vuejs.org): Explorando as maravilhas do Vue.js para criar interfaces de usuário interativas e responsivas.
-- 🎨 [Tailwind CSS](https://tailwindui.com): Descobrindo o poder do Tailwind CSS para estilização eficiente de interfaces.
-- 🌐 JavaScript: Utilizando JavaScript para tornar as páginas web mais dinâmicas e atraentes.
+- 📖 [Vue.js](https://vuejs.org);
+- 🎨 [Tailwind CSS](https://tailwindui.com);
+- 🌐 JavaScript;
 
 ## Inertia.js
-- 🔗 [Inertia.js](https://inertiajs.com/): Aprofundando-me no Inertia.js para criar interações perfeitas entre o backend e o frontend, proporcionando uma experiência do usuário mais fluida.
+- 🔗 [Inertia.js](https://inertiajs.com/);
 
 ## Outros interesses
 - 👉 GO: Explorando a linguagem GO para desenvolvimento eficiente e de alto desempenho.
