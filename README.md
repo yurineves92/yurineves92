@@ -33,7 +33,7 @@ Olá! Sou **Yuri Neves**, um apaixonado pelo mundo do desenvolvimento web e entu
   <img align="center" alt="Tailwind CSS" title="Tailwind CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
 </div>
 
-##
+## 
 Sinta-se à vontade para explorar meus projetos e repositórios! Se você tiver alguma pergunta, sugestão ou colaboração, não hesite em entrar em contato.
 <br><br>
 <div> 
