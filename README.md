@@ -42,7 +42,7 @@ Olá! Sou **Yuri Neves**, um apaixonado pelo mundo do desenvolvimento web e entu
   <img align="center" alt="Tailwind CSS" title="Tailwind CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
 </div>
 
-## Sinta-se à vontade para explorar meus projetos e repositórios! Se você tiver alguma pergunta, sugestão ou colaboração, não hesite em entrar em contato.
+## E-mail e Linkedin
 <div> 
   <a href="mailto:yurineves92@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yuri-neves-555b44aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
