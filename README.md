@@ -3,12 +3,6 @@
 ## Sobre mim
 Olá! Sou **Yuri Neves**, um apaixonado pelo mundo do desenvolvimento web e entusiasta de API e integrações. Estou sempre em busca do aprimoramento das minhas habilidades nessas áreas, criando soluções eficazes e integradas para atender às necessidades dos projetos.
 
-<div align="center">
-  <a href="https://github.com/yurineves92">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yurineves92&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurineves92&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 ## Tecnologias
 
 <div style="display: inline-block">
