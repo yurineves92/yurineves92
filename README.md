@@ -25,15 +25,20 @@ Olá! Sou **Yuri Neves**, um apaixonado pelo mundo do desenvolvimento web e entu
   <img align="center" alt="Yii" title="Yii" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yii/yii-original.svg">
 </div>
 
-## Framework JS
+## Frameworks JS
 <div>
   <img align="center" alt="Vue.js" title="Vue.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
 </div>
 
-## Framework CSS
+## Frameworks CSS
 <div>
   <img align="center" alt="Bootstrap" title="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Tailwind CSS" title="Tailwind CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+</div>
+
+## Estudos
+<div>
+  <img align="center" alt="Go" title="Go" height="30" width="40" src="  https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
 </div>
 
 ## E-mail e Linkedin
