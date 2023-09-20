@@ -38,7 +38,7 @@ Olá! Sou **Yuri Neves**, um apaixonado pelo mundo do desenvolvimento web e entu
 
 ## Estudos
 <div>
-  <img align="center" alt="Go" title="Go" height="30" width="40" src="  https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
+  <img align="center" alt="Go" title="Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
 </div>
 
 ## E-mail e Linkedin
