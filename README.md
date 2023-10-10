@@ -1,49 +1,20 @@
 # Bem-vindo ao meu GitHub! 👋
 
 ## Sobre mim
-Olá! Sou **Yuri Neves**, um apaixonado pelo mundo do desenvolvimento web e entusiasta de API e integrações. Estou sempre em busca do aprimoramento das minhas habilidades nessas áreas, criando soluções eficazes e integradas para atender às necessidades dos projetos.
+Olá! Sou **Yuri Neves**, um apaixonado pelo desenvolvimento web, especialmente em APIs e integrações. Estou sempre buscando aprimorar minhas habilidades nessas áreas, criando soluções eficientes e integradas para atender às necessidades dos projetos.
 
 ## Tecnologias
+- Front-end: HTML5, CSS3, JavaScript
+- Back-end: PHP, Java
+- Ferramentas: Git, Linux
+- Bancos de dados: MySQL, PostgreSQL
+- Frameworks PHP: Laravel, CakePHP, Yii
+- Frameworks JS: Vue.js
+- Frameworks CSS: Bootstrap, Tailwind CSS
+- Outras tecnologias: Go, Springboot e Quarkus
 
-<div style="display: inline-block">
-  <img align="center" alt="HTML5" title="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" title="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="PHP" title="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="Java" title="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Node.js" title="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="MySQL" title="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="PostgreSQL" title="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Git" title="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Linux" title="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-</div>
+## Entre em contato
+- E-mail: [yurineves92@gmail.com](mailto:yurineves92@gmail.com)
+- LinkedIn: [Yuri Neves](https://www.linkedin.com/in/yuri-neves-555b44aa/)
 
-## Frameworks PHP
-
-<div style="display: inline-block">
-  <img align="center" alt="Laravel" title="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-  <img align="center" alt="CakePHP" title="CakePHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cakephp/cakephp-original.svg">
-  <img align="center" alt="Yii" title="Yii" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yii/yii-original.svg">
-</div>
-
-## Frameworks JS
-<div>
-  <img align="center" alt="Vue.js" title="Vue.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-</div>
-
-## Frameworks CSS
-<div>
-  <img align="center" alt="Bootstrap" title="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="Tailwind CSS" title="Tailwind CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
-</div>
-
-## Estudos
-<div>
-  <img align="center" alt="Go" title="Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
-</div>
-
-## E-mail e Linkedin
-<div> 
-  <a href="mailto:yurineves92@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/yuri-neves-555b44aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+Fique à vontade para entrar em contato e discutir projetos interessantes ou oportunidades de colaboração! 😊
