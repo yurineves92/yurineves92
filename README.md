@@ -7,7 +7,7 @@ Olá! Sou **Yuri Neves**, um apaixonado pelo desenvolvimento web, especialmente 
 - Front-end: HTML5, CSS3, JavaScript, JQuery
 - Back-end: PHP, Java
 - Ferramentas: Git, Linux
-- Bancos de dados: MySQL, PostgreSQL
+- Bancos de dados: MySQL, PostgreSQL, Oracle
 - Frameworks PHP: Laravel, CakePHP, Yii
 - Frameworks JS: Vue.js
 - Frameworks CSS: Bootstrap, Tailwind CSS
