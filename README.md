@@ -11,7 +11,7 @@ Olá! Sou **Yuri Neves**, um apaixonado pelo desenvolvimento web, especialmente 
 - Frameworks PHP: Laravel, CakePHP, Yii
 - Frameworks JS: Vue.js
 - Frameworks CSS: Bootstrap, Tailwind CSS
-- Outras tecnologias: Go
+- Outras tecnologias: Go e Ruby
 
 ## Entre em contato
 - E-mail: [yurineves92@gmail.com](mailto:yurineves92@gmail.com)
