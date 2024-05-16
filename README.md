@@ -4,11 +4,11 @@
 Olá! Sou **Yuri Neves**, um entusiasta do desenvolvimento web, com uma paixão especial por APIs e integrações. Estou constantemente buscando aprimorar minhas habilidades nessas áreas, desenvolvendo soluções eficientes e integradas para atender às necessidades dos projetos.
 
 ## Tecnologias
-- **Front-end:** HTML5, CSS3, JavaScript, jQuery
+- **Front-end:** HTML5, CSS3, JavaScript e jQuery
 - **Back-end:** PHP
 - **Ferramentas:** Git, Linux
 - **Bancos de dados:** MySQL, PostgreSQL, Oracle
-- **Frameworks PHP:** Laravel, CakePHP, Yii
+- **Frameworks PHP:** Laravel, Yii e CakePHP
 - **Frameworks JS:** Vue.js
 - **Frameworks CSS:** Bootstrap, Tailwind CSS
 - **Outras tecnologias:** Ruby
