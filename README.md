@@ -8,7 +8,7 @@ Olá! Sou **Yuri Neves**, um entusiasta do desenvolvimento web, com uma paixão 
 - **Back-end:** PHP
 - **Ferramentas:** Git, Linux
 - **Bancos de dados:** MySQL, PostgreSQL, Oracle
-- **Frameworks PHP:** Laravel, Lumen, Yii, Slim e CakePHP
+- **Frameworks PHP:** Laravel, Slim, Yii, Slim e CakePHP
 - **Frameworks JS:** Vue.js
 - **Frameworks CSS:** Bootstrap, Tailwind CSS
 - **Outras tecnologias:** NodeJS, Ruby e Java
