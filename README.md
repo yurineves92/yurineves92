@@ -11,7 +11,7 @@ Olá! Sou **Yuri Neves**, um entusiasta do desenvolvimento web, com uma paixão 
 - **Frameworks PHP:** Laravel, Slim, Yii, Slim e CakePHP
 - **Frameworks JS:** Vue.js
 - **Frameworks CSS:** Bootstrap, Tailwind CSS
-- **Outras tecnologias:** NodeJS, Ruby e Java
+- **Outras tecnologias:** NodeJS, Ruby
 
 ## Entre em contato
 - **E-mail:** [yurineves92@gmail.com](mailto:yurineves92@gmail.com)
