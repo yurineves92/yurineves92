@@ -5,13 +5,14 @@ Olá! Sou **Yuri Neves**, um entusiasta do desenvolvimento web, com uma paixão 
 
 ## Tecnologias
 - **Front-end:** HTML5, CSS3, JavaScript e jQuery
-- **Back-end:** PHP
+- **Back-end:** PHP, Java
 - **Ferramentas:** Git, Linux
 - **Bancos de dados:** MySQL, PostgreSQL, Oracle
 - **Frameworks PHP:** Laravel, Slim, Yii, Slim e CakePHP
+- **Frameworks Java:** Springframework
 - **Frameworks JS:** Vue.js
 - **Frameworks CSS:** Bootstrap, Tailwind CSS
-- **Outras tecnologias:** NodeJS, Ruby
+- **Outras tecnologias:** NodeJS, Java
 
 ## Entre em contato
 - **E-mail:** [yurineves92@gmail.com](mailto:yurineves92@gmail.com)
