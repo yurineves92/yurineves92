@@ -12,7 +12,7 @@ Olá! Sou **Yuri Neves**, um entusiasta do desenvolvimento web, com uma paixão 
 - **Frameworks Java:** Springframework
 - **Frameworks JS:** Vue.js
 - **Frameworks CSS:** Bootstrap, Tailwind CSS
-- **Outras tecnologias:** NodeJS, Java
+- **Outras tecnologias:** Java e Ruby
 
 ## Entre em contato
 - **E-mail:** [yurineves92@gmail.com](mailto:yurineves92@gmail.com)
