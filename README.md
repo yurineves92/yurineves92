@@ -9,10 +9,9 @@ Olá! Sou **Yuri Neves**, um entusiasta do desenvolvimento web, com uma paixão 
 - **Ferramentas:** Git, Linux
 - **Bancos de dados:** MySQL, PostgreSQL, Oracle
 - **Frameworks PHP:** Laravel, Slim, Yii, Slim e CakePHP
-- **Frameworks Java:** Springframework
 - **Frameworks JS:** Vue.js
 - **Frameworks CSS:** Bootstrap, Tailwind CSS
-- **Outras tecnologias:** Java e Ruby
+- **Outras tecnologias:** Ruby
 
 ## Entre em contato
 - **E-mail:** [yurineves92@gmail.com](mailto:yurineves92@gmail.com)
